@@ -1,7 +1,7 @@
 {
   "name": "workout",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/jamrreed/workout",
+  "homepage": "https://jamrreed.github.io/workout",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
